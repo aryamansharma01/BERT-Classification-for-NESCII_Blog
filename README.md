@@ -15,6 +15,8 @@
 * Python
 * Machine Learning
 * Web Scraping
+* BERT
+* Deep Learning
 
 ## Author
 
